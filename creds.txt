@@ -1,2 +1,0 @@
-username=sree9398
-password=sree
