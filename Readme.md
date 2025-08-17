@@ -1,4 +1,2 @@
-This is my first git project
-authour - sreekanth
-company - sree9398
-"# git project " 
+# git_project
+git learning 
