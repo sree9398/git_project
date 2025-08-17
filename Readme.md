@@ -1,2 +1,2 @@
 # git_project
-Hello world 
+git learning 
